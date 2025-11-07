@@ -1,4 +1,6 @@
-Shows Deperating and Arriving airports on TAR1090 ADSB webpages. This tool is 95% accurate, there is inconsistencies with short haul flights that do not update their flight plans (Southwest airlines and some freight haulers). 
+Shows Deperating and Arriving airports on TAR1090 ADSB webpages. 
+
+This tool is 95% accurate, there is inconsistencies with short haul flights that do not update their flight plans (Southwest airlines and some freight haulers). 
 
 This script pulls info from FlightAware.
 
