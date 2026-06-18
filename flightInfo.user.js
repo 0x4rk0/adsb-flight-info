@@ -4,6 +4,8 @@
 // @description  Show departure and arrival airports when a flight is selected on ADS-B Exchange or ADSB.fi
 // @match        https://globe.adsbexchange.com/*
 // @match        https://globe.adsb.fi/*
+// @match        *://*/tar1090/*
+// @match        *://*:8504/*
 // @grant        GM.xmlHttpRequest
 // @connect      flightaware.com
 // @run-at       document-end
